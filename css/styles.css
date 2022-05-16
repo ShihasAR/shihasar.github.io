@@ -118,6 +118,27 @@ p{
   right: 350px;
 }
 
+@media (max-width:1170px) {
+  .t-cloud{
+    position: static;
+    left:1000px;
+    top:60px;
+  }
+  .b-cloud{
+    margin-left: 290px;
+    position:static;
+
+  }
+  .mountain{
+    margin-top: 110px;
+    position: static;
+    top: 120px;
+    left: 100px;
+    width: 60%;
+    height: 40%;
+  }
+}
+
 
 .bottom-container{
   padding-top: 40px;
