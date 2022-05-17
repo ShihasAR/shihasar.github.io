@@ -120,20 +120,20 @@ p{
 
 @media (max-width:1170px) {
   .t-cloud{
-    position: static;
-    left:1000px;
+    position: absolute;
+    left:90px;
     top:60px;
   }
   .b-cloud{
-    margin-left: 290px;
-    position:static;
+    margin-left: 330px;
+    position:absolute;
 
   }
   .mountain{
     margin-top: 80px;
     position: absolute;
     top: 280px;
-    left: 130px;
+    left: 150px;
     width: 60%;
     height: 40%;
   }
