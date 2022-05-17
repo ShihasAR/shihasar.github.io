@@ -131,8 +131,8 @@ p{
   }
   .mountain{
     margin-top: 80px;
-    position: static;
-    top: 70px;
+    position: absolute;
+    top: 290px;
     left: 100px;
     width: 60%;
     height: 40%;
